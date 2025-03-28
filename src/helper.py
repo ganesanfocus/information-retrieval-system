@@ -10,7 +10,7 @@ from langchain.chains import ConversationalRetrievalChain
 
 # Load environment variables
 load_dotenv()
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDjoGiu8hpmdFmoaR7G1qAqCC0-ofi9lO4"
+os.environ["GOOGLE_API_KEY"] = "***********-ofi9lO4"
 
 # Extract text from PDF
 def get_pdf_text(pdf_docs):
